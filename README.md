@@ -4,6 +4,6 @@ This is my **FIRST video game**.
 
 This is for **NES**.
 
-It's a **mix** *of Python and C*.
+It's a *Python* **program**.
 
-I use *Cython* to convert **Python** to **C**.
+I use *pyNES* to convert **Python** to a **NES game**.
